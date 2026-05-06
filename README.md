@@ -3,8 +3,8 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 Bowen Wu
 
 ## GitHub Pages
-- expose.html: https://[YOUR_GITHUB_USERNAME].github.io/Lab5_Starter/expose.html
-- explore.html: https://[YOUR_GITHUB_USERNAME].github.io/Lab5_Starter/explore.html
+- expose.html: https://Endless1010.github.io/Lab5_Starter/expose.html
+- explore.html: https://Endless1010.github.io/Lab5_Starter/explore.html
 
 ## Check Your Understanding
 
